@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lwizuh
 - 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a project to learning more 
 - 📫 How to reach me Lwizestudo@gmail.com
 
