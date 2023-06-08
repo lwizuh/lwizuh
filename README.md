@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lwizuh
-- 👀 I’m interested in learning how to program
+- 👋 Hi, I’m Lwizuh or Luiz
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning Front-End
 - 💞️ I’m looking to collaborate on a project to learning more 
 - 📫 How to reach me Lwizestudo@gmail.com
