@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">🔭 I’m working on a game<br>🌱 I’m currently learning Back-End<br>⚡ Fun fact: wordl's fstest tyipst</p>
+<p align="center">🔭 I’m working on a game<br>⚡ Fun fact: wordl's fstest tyipst</p>
 
 ###
 
